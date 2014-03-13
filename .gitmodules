@@ -1,0 +1,3 @@
+[submodule "wymeditor"]
+	path = wymeditor
+	url = git://github.com/notetiene/wymeditor.git
